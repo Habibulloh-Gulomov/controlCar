@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\bin\Debug\net6.0\controllercar.exe
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\bin\Debug\net6.0\controllercar.deps.json
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\bin\Debug\net6.0\controllercar.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\bin\Debug\net6.0\controllercar.dll
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\bin\Debug\net6.0\controllercar.pdb
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.dll
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\refint\controllercar.dll
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.pdb
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\controllercar.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\controller car\controllercar\controllercar\obj\Debug\net6.0\ref\controllercar.dll
